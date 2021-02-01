@@ -31,3 +31,4 @@ This search takes the information from Vacation search and uses Google Maps Dire
 
 
 It also shows hotels at each destination.
+![Summary](https://github.com/Vaishali715/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
