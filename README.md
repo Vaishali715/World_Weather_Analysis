@@ -22,13 +22,13 @@ The above information along with the latitudes and longitude information helps t
 
 This search uses the weather database information and uses Google Maps API to plot different travel destinations along with locating hotels/lodging.
 The image below shows the locations of all the places in the database that have a temperature range of 70 to 90 degrees Farheneit.
-
+![Image](https://github.com/Vaishali715/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ### Vacation Itinerary
 
 This search takes the information from Vacation search and uses Google Maps Direction API to create a vacation itinerary. For example the image below shows a four stop itinerary in Asia that features Veraval, Tezu, Pathein and Machilipatnam.
-
+![Image](https://github.com/Vaishali715/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 It also shows hotels at each destination.
-![Summary](https://github.com/Vaishali715/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![Image](https://github.com/Vaishali715/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
